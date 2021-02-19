@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imgsetting{
+    /* width: 700px; */
+    height: 550px;
+    width: 1500px;
+   /* height: 100%; */
+}
